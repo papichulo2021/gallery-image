@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import SearchForm from './components/searchForm';
 import ImageCard from './components/ImageCard';
 
-const accessKey = 'zs9tOHh9NQ1_FIZEASrtqJ6HShHPS9GtHmHzz1JqLK0';
+const accessKey = import.meta.env.VITE_UNSPLASH_ACCESS_KEY;
 
 function App() {
   const [keyword, setKeyword] = useState('');
