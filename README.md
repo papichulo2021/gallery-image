@@ -1,5 +1,5 @@
 # Gallery Image Search App
-
+https://github.com/papichulo2021/gallery-image/blob/main/Screen%20Shot%202025-01-29%20at%205.59.23%20PM.png
 A React-based photo search app that uses the Unsplash API to fetch and display images. It incorporates the **PhotoSwipe** library to view images in a gallery-like lightbox when clicked.
 
 ## Features
