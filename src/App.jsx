@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import SearchForm from './components/searchForm';
+import SearchForm from './components/SearchForm';
 import ImageCard from './components/ImageCard';
 
 const accessKey = import.meta.env.VITE_UNSPLASH_ACCESS_KEY;
