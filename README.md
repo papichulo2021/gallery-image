@@ -1,5 +1,5 @@
 # Gallery Image Search App
-![Alt Text](/Screen Shot 2025-01-29 at 5.59.23 PM.png)
+Screen Shot 2025-01-29 at 5.59.23 PM.png
 A React-based photo search app that uses the Unsplash API to fetch and display images. It incorporates the **PhotoSwipe** library to view images in a gallery-like lightbox when clicked.
 
 ## Features
