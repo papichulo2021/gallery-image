@@ -1,7 +1,6 @@
 import 'photoswipe/dist/photoswipe.css';
 import { Gallery, Item } from 'react-photoswipe-gallery';
 import React from 'react';
-import bookmark from '../../public/bookmark.svg'; // You can use this for a bookmark or any other functionality
 
 const ImageCard = ({ image }) => {
   return (
